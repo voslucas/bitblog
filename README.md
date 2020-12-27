@@ -1,1 +1,1 @@
-# bitblog
+# Bitfox Blog v2
