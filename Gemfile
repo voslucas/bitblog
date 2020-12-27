@@ -1,8 +1,10 @@
 source "https://rubygems.org"
-gemspec
+gem "github-pages"
+gemspec "bitblog"
 
 # git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
+# gem "github-pages"
 # gem "jekyll", "~> 3.8.4"
 
 # group :jekyll_plugins do
